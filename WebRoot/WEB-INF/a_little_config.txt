@@ -1,0 +1,4 @@
+jdbcUrl = jdbc\:mysql\://121.42.208.200\:3306/tutor_system?useUnicode\=true&characterEncoding\=utf-8
+user = root
+password =123456
+devMode = true
